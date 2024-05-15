@@ -1,0 +1,12 @@
+f74aee76b12434ef23400f650fa1faad *DESCRIPTION
+be0adf78753edd283dca1dcff33e6cd8 *NAMESPACE
+9cd1a9885f46fb909f97621139bece31 *R/add_geometry.R
+0bcd4daf517ceba7ad7d26965044474f *R/dictionary.R
+d1c4a7e1c4baa8c2c8516ed87cb7a551 *R/documentation.R
+94e29d09f2167712944fea2635bc9f99 *R/misuvi_load.R
+f210caab2cec83d8c2d4300e4cc2f3e0 *R/sysdata.rda
+29fdc3058eee459bf99b18a6d15d6fb2 *README.md
+8569a0f21a1675df5447182199e4de15 *man/add_geometry.Rd
+194c824ad2332345f95c2f8e7b4dca16 *man/dictionary.Rd
+322f1f009552159a040d98d5ac9cb129 *man/documentation.Rd
+4386725abf6cb951ea430c1493ea7ed6 *man/misuvi_load.Rd
